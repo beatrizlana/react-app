@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main /> should render heading 1`] = `
+.c0 {
+  background-color: #fc8f71;
+  padding: 3rem;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+<main
+  class="c0"
+>
+  <img
+    alt="Imagem da logomarca inspirada em uma bússola seguida da palavra Orientu"
+    class="styles__Logo-sc-1cs6c8-1"
+    src="/img/Subtract.png"
+  />
+  <h1
+    class="styles__Title-sc-1cs6c8-2"
+  >
+    Orientu
+  </h1>
+  <h2
+    class="styles__Description-sc-1cs6c8-3"
+  >
+    Orientu é um produto para te ajudar na sua escolha profissional!
+  </h2>
+  <img
+    alt="Ilustração de uma pessoa animada e comemorando"
+    class="styles__Illustration-sc-1cs6c8-4"
+    src="/img/Rectangle.png"
+  />
+</main>
+`;
